@@ -13,3 +13,4 @@ export const config = {
     "/artisan-dashboard/:path*",
     "/user-dashboard/:path*",
   ],
+}
